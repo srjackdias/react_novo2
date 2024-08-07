@@ -4,10 +4,11 @@ import './index.css'
 function Conteudo() {
   return (
     <div className = "conteudo-container">
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias repellendus eaque architecto, minima qui nihil aliquam exercitationem et asperiores ad libero perferendis, ullam veritatis dolorum tempora incidunt sit suscipit ex?</p>
+     
+      <img className="sonic_freak" src="public/imagens/sonic-hedgehog-png-wnornraeqenis3rv.png" alt = "fotos do sonic"/>
+      <img className="sonic_freak2" src="public/imagens/fcb8bd2b7cb3f0f81ab72b2b8634341c.gif" alt = "fotos do sonic"/>
 
-      <img src="https://super.abril.com.br/wp-content/uploads/2001/06/afinal-o-que-ecc81-amor.jpeg?crop=1&resize=1212,909"/>
-
+   
     </div>
   )
 }
