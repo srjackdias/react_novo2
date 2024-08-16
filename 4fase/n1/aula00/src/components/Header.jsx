@@ -14,8 +14,13 @@ function Hearder() {
   return (
     <div className ="header-container">
       
-    <h1>Página bonita</h1>
-    <Sonic style={iconBig}/>
+    <img className="coração_maneiro" src="public/imagens/farmarcia-logo-pq.png" alt = "fotos do sonic"/>
+    <h1 className="home__pagina">Farmácia </h1>
+    <h1 className="home__paginaDois">Home</h1>
+
+    <h1 className="home__paginaDois">noticias</h1>
+
+
     </div>
   )
 }

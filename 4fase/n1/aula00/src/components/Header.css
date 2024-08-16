@@ -2,7 +2,58 @@
 
     background-color: white;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    align-items: flex-start;
+   
+
+}
+
+.coração_maneiro{
+    width: 10%;
+
+      
+
+
+}
+
+.home__pagina{
+    height: 10%;
+    width: 100%;
+    padding-top:3%;
+    font-size: 55px;
+   
+
+    font-weight: bold;
+  
+
+
+
+}
+
+.home__paginaUm{
+
+    height: 10%;
+    width: 100%;
+    font-size: 55px;
+    padding-top: 10%;
+ padding-right:20% ;
+    font-weight: bold;
+
+
+
+}
+
+.home__paginaDois{
+
+    height: 10%;
+    width: 100%;
+    font-size: 55px;
+    padding-top: 10%;
+   
+
+    font-weight: bold;
+  
+
+
 
 }
